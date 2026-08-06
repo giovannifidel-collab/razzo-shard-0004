@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "31108972280",
   "cycleId": "razzo-07a6974cb9f7",
   "generationId": "razzo-07a6974cb9f7:g1",
@@ -11,8 +11,8 @@
   "title": "Stop product refinements and execute the existing exact-SHA candidate through Product CI, Robot R01-R03, independent review, integration and post-merge replay.",
   "kind": "macrocycle-closure",
   "exactInputSha": "7e30322973310b29ee8bf3db24464b713b7d81b9",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "7e30322973310b29ee8bf3db24464b713b7d81b9",
+  "durationSeconds": 1.599,
   "error": null,
-  "updatedEpoch": 1786025056.9442601
+  "updatedEpoch": 1786025059.9981449
 }
