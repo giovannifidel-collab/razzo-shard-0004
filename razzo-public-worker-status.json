@@ -1,18 +1,18 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "completed",
-  "workflowRunId": "30960436818",
-  "cycleId": "razzo-9fc39d8816c4",
-  "generationId": "razzo-9fc39d8816c4:g1",
-  "workItemId": "5bef0450d10f212130863d69",
+  "state": "started",
+  "workflowRunId": "31106682012",
+  "cycleId": "razzo-97d202b8af66",
+  "generationId": "razzo-97d202b8af66:g1",
+  "workItemId": "463d297930fc14127ecbe4fc",
   "shard": "razzo-shard-0004",
   "projectId": "project-giovanni",
   "repository": "giovannifidel-collab/project-giovanni",
   "title": "Project Giovanni Factory planner execution",
   "kind": "planning",
-  "exactInputSha": "0cec483667809d44e72f8e4e514f46cd29399379",
-  "observedSha": "0cec483667809d44e72f8e4e514f46cd29399379",
-  "durationSeconds": 2.056,
+  "exactInputSha": "c83b962268abe4586731bb96ff0777cdaca754fd",
+  "observedSha": null,
+  "durationSeconds": null,
   "error": null,
-  "updatedEpoch": 1785886470.6507666
+  "updatedEpoch": 1786023371.8393059
 }
