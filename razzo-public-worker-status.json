@@ -1,18 +1,18 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "completed",
-  "workflowRunId": "31110575533",
-  "cycleId": "razzo-ccbb314bbe3d",
-  "generationId": "razzo-ccbb314bbe3d:g1",
-  "workItemId": "6d3fc4f01d2d2e22660c56ab",
+  "state": "started",
+  "workflowRunId": "31112645663",
+  "cycleId": "razzo-061f1eca2be5",
+  "generationId": "razzo-061f1eca2be5:g1",
+  "workItemId": "033565ee0ed012491ca48888",
   "shard": "razzo-shard-0004",
   "projectId": "pfarma-cloud",
   "repository": "giovannifidel-collab/pfarma-cloud",
-  "title": "Stop product refinements and execute the existing exact-SHA candidate through Product CI, Robot R01-R03, independent review, integration and post-merge replay.",
+  "title": "Execute the exact-SHA candidate through delta Robot R01-R03, cumulative Robot simulation, independent review, integration and post-merge replay.",
   "kind": "macrocycle-closure",
   "exactInputSha": "7e30322973310b29ee8bf3db24464b713b7d81b9",
-  "observedSha": "7e30322973310b29ee8bf3db24464b713b7d81b9",
-  "durationSeconds": 3.305,
+  "observedSha": null,
+  "durationSeconds": null,
   "error": null,
-  "updatedEpoch": 1786026218.1315455
+  "updatedEpoch": 1786027689.084745
 }
