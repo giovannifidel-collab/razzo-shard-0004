@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "31114296682",
   "cycleId": "razzo-d2018d381336",
   "generationId": "razzo-d2018d381336:g1",
@@ -11,8 +11,8 @@
   "title": "Execute the exact-SHA candidate through delta Robot R01-R03, cumulative Robot simulation, independent review, integration and post-merge replay.",
   "kind": "macrocycle-closure",
   "exactInputSha": "7e30322973310b29ee8bf3db24464b713b7d81b9",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "7e30322973310b29ee8bf3db24464b713b7d81b9",
+  "durationSeconds": 3.726,
   "error": null,
-  "updatedEpoch": 1786028833.3776813
+  "updatedEpoch": 1786028838.5841844
 }
